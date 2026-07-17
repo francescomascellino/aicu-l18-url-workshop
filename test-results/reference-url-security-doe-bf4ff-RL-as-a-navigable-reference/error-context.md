@@ -122,9 +122,9 @@ Received string:      "javascript:(()=>{document.body.innerHTML='<main style=\"p
               - columnheader "Stato" [ref=e90]
               - columnheader "Azioni" [ref=e91]
           - rowgroup [ref=e92]:
-            - row "#TCK-42369 Riferimento non consentito L18 Alfa S.r.l. normale email standard aperto 16/07, 21:09 Apri dettagli Riferimento non consentito L18" [ref=e93]:
-              - cell "#TCK-42369" [ref=e94]:
-                - strong [ref=e95]: "#TCK-42369"
+            - row "#TCK-90557 Riferimento non consentito L18 Alfa S.r.l. normale email standard aperto 17/07, 15:19 Apri dettagli Riferimento non consentito L18" [ref=e93]:
+              - cell "#TCK-90557" [ref=e94]:
+                - strong [ref=e95]: "#TCK-90557"
               - cell "Riferimento non consentito L18" [ref=e96]
               - cell "Alfa S.r.l." [ref=e97]
               - cell "normale" [ref=e98]:
@@ -132,14 +132,14 @@ Received string:      "javascript:(()=>{document.body.innerHTML='<main style=\"p
               - cell "email" [ref=e100]
               - cell "standard" [ref=e101]:
                 - generic [ref=e102]: standard
-              - cell "aperto 16/07, 21:09" [ref=e103]:
+              - cell "aperto 17/07, 15:19" [ref=e103]:
                 - generic [ref=e104]: aperto
-                - generic [ref=e105]: 16/07, 21:09
+                - generic [ref=e105]: 17/07, 15:19
               - cell "Apri dettagli Riferimento non consentito L18" [ref=e106]:
                 - button "Apri dettagli Riferimento non consentito L18" [active] [ref=e107] [cursor=pointer]: Dettagli
-            - row "#TCK-66086 Riferimento HTTPS L18 Alfa S.r.l. normale email standard aperto 16/07, 21:09 Apri dettagli Riferimento HTTPS L18" [ref=e108]:
-              - cell "#TCK-66086" [ref=e109]:
-                - strong [ref=e110]: "#TCK-66086"
+            - row "#TCK-37858 Riferimento HTTPS L18 Alfa S.r.l. normale email standard aperto 17/07, 15:19 Apri dettagli Riferimento HTTPS L18" [ref=e108]:
+              - cell "#TCK-37858" [ref=e109]:
+                - strong [ref=e110]: "#TCK-37858"
               - cell "Riferimento HTTPS L18" [ref=e111]
               - cell "Alfa S.r.l." [ref=e112]
               - cell "normale" [ref=e113]:
@@ -147,12 +147,12 @@ Received string:      "javascript:(()=>{document.body.innerHTML='<main style=\"p
               - cell "email" [ref=e115]
               - cell "standard" [ref=e116]:
                 - generic [ref=e117]: standard
-              - cell "aperto 16/07, 21:09" [ref=e118]:
+              - cell "aperto 17/07, 15:19" [ref=e118]:
                 - generic [ref=e119]: aperto
-                - generic [ref=e120]: 16/07, 21:09
+                - generic [ref=e120]: 17/07, 15:19
               - cell "Apri dettagli Riferimento HTTPS L18" [ref=e121]:
                 - button "Apri dettagli Riferimento HTTPS L18" [ref=e122] [cursor=pointer]: Dettagli
-            - row "#TCK-10482 Impossibile accedere al portale clienti Alfa S.r.l. alta email prioritario aperto 16/07, 21:09 Apri dettagli Impossibile accedere al portale clienti" [ref=e123]:
+            - row "#TCK-10482 Impossibile accedere al portale clienti Alfa S.r.l. alta email prioritario aperto 17/07, 15:19 Apri dettagli Impossibile accedere al portale clienti" [ref=e123]:
               - cell "#TCK-10482" [ref=e124]:
                 - strong [ref=e125]: "#TCK-10482"
               - cell "Impossibile accedere al portale clienti" [ref=e126]
@@ -162,12 +162,12 @@ Received string:      "javascript:(()=>{document.body.innerHTML='<main style=\"p
               - cell "email" [ref=e130]
               - cell "prioritario" [ref=e131]:
                 - generic [ref=e132]: prioritario
-              - cell "aperto 16/07, 21:09" [ref=e133]:
+              - cell "aperto 17/07, 15:19" [ref=e133]:
                 - generic [ref=e134]: aperto
-                - generic [ref=e135]: 16/07, 21:09
+                - generic [ref=e135]: 17/07, 15:19
               - cell "Apri dettagli Impossibile accedere al portale clienti" [ref=e136]:
                 - button "Apri dettagli Impossibile accedere al portale clienti" [ref=e137] [cursor=pointer]: Dettagli
-            - row "#TCK-10481 Errore 500 durante il caricamento Beta Consulting normale chat da gestire in lavorazione 16/07, 21:09 Apri dettagli Errore 500 durante il caricamento" [ref=e138]:
+            - row "#TCK-10481 Errore 500 durante il caricamento Beta Consulting normale chat da gestire in lavorazione 17/07, 15:19 Apri dettagli Errore 500 durante il caricamento" [ref=e138]:
               - cell "#TCK-10481" [ref=e139]:
                 - strong [ref=e140]: "#TCK-10481"
               - cell "Errore 500 durante il caricamento" [ref=e141]
@@ -177,9 +177,9 @@ Received string:      "javascript:(()=>{document.body.innerHTML='<main style=\"p
               - cell "chat" [ref=e145]
               - cell "da gestire" [ref=e146]:
                 - generic [ref=e147]: da gestire
-              - cell "in lavorazione 16/07, 21:09" [ref=e148]:
+              - cell "in lavorazione 17/07, 15:19" [ref=e148]:
                 - generic [ref=e149]: in lavorazione
-                - generic [ref=e150]: 16/07, 21:09
+                - generic [ref=e150]: 17/07, 15:19
               - cell "Apri dettagli Errore 500 durante il caricamento" [ref=e151]:
                 - button "Apri dettagli Errore 500 durante il caricamento" [ref=e152] [cursor=pointer]: Dettagli
         - generic [ref=e153]:
@@ -201,7 +201,7 @@ Received string:      "javascript:(()=>{document.body.innerHTML='<main style=\"p
         - generic [ref=e168]: "{ \"title\": \"\", \"customer\": \"\", \"description\": \"\", \"referenceUrl\": \"\", \"priority\": \"normale\", \"sourceChannel\": \"email\" }"
       - article [ref=e169]:
         - generic [ref=e170]: response
-        - generic [ref=e171]: "{ \"tickets\": [ { \"id\": \"TCK-42369\", \"title\": \"Riferimento non consentito L18\", \"customer\": \"Alfa S.r.l.\", \"description\": \"Aprire la documentazione collegata.\", \"referenceUrl\": \"javascript:(()=>{document.body.innerHTML='<main style=\\\"position:fixed;inset:0;z-index:999999;display:grid;place-items:center;background:#ff00a8;color:#050005;border:16px solid red;font:900 5vw system-ui;text-align:center\\\">CONTENUTO MALEVOLO ESEGUITO<br><small style=\\\"font-size:2vw\\\">QUESTA UI NON APPARTIENE AL PRODOTTO</small></main>';document.body.style.overflow='hidden'})()\", \"priority\": \"normale\", \"sourceChannel\": \"email\", \"urgencyLabel\": \"standard\", \"status\": \"aperto\", \"createdAt\": \"2026-07-16T19:09:48.496Z\" }, { \"id\": \"TCK-66086\", \"title\": \"Riferimento HTTPS L18\", \"customer\": \"Alfa S.r.l.\", \"description\": \"Aprire la documentazione collegata.\", \"referenceUrl\": \"https://docs.example.test/ticket/42\", \"priority\": \"normale\", \"sourceChannel\": \"email\", \"urgencyLabel\": \"standard\", \"status\": \"aperto\", \"createdAt\": \"2026-07-16T19:09:48.256Z\" }, { \"id\": \"TCK-10482\", \"title\": \"Impossibile accedere al portale clienti\", \"customer\": \"Alfa S.r.l.\", \"description\": \"Errore login su account amministrativo.\", \"referenceUrl\": \"https://docs.example.test/accesso-portale\", \"priority\": \"alta\", \"sourceChannel\": \"email\", \"urgencyLabel\": \"prioritario\", \"status\": \"aperto\", \"createdAt\": \"2026-07-16T19:09:47.761Z\" }, { \"id\": \"TCK-10481\", \"title\": \"Errore 500 durante il caricamento\", \"customer\": \"Beta Consulting\", \"description\": \"Errore intermittente nella pagina fatture.\", \"referenceUrl\": \"\", \"priority\": \"normale\", \"sourceChannel\": \"chat\", \"urgencyLabel\": \"da gestire\", \"status\": \"in lavorazione\", \"createdAt\": \"2026-07-16T19:09:47.761Z\" } ] }"
+        - generic [ref=e171]: "{ \"tickets\": [ { \"id\": \"TCK-90557\", \"title\": \"Riferimento non consentito L18\", \"customer\": \"Alfa S.r.l.\", \"description\": \"Aprire la documentazione collegata.\", \"referenceUrl\": \"javascript:(()=>{document.body.innerHTML='<main style=\\\"position:fixed;inset:0;z-index:999999;display:grid;place-items:center;background:#ff00a8;color:#050005;border:16px solid red;font:900 5vw system-ui;text-align:center\\\">CONTENUTO MALEVOLO ESEGUITO<br><small style=\\\"font-size:2vw\\\">QUESTA UI NON APPARTIENE AL PRODOTTO</small></main>';document.body.style.overflow='hidden'})()\", \"priority\": \"normale\", \"sourceChannel\": \"email\", \"urgencyLabel\": \"standard\", \"status\": \"aperto\", \"createdAt\": \"2026-07-17T13:19:08.673Z\" }, { \"id\": \"TCK-37858\", \"title\": \"Riferimento HTTPS L18\", \"customer\": \"Alfa S.r.l.\", \"description\": \"Aprire la documentazione collegata.\", \"referenceUrl\": \"https://docs.example.test/ticket/42\", \"priority\": \"normale\", \"sourceChannel\": \"email\", \"urgencyLabel\": \"standard\", \"status\": \"aperto\", \"createdAt\": \"2026-07-17T13:19:08.431Z\" }, { \"id\": \"TCK-10482\", \"title\": \"Impossibile accedere al portale clienti\", \"customer\": \"Alfa S.r.l.\", \"description\": \"Errore login su account amministrativo.\", \"referenceUrl\": \"https://docs.example.test/accesso-portale\", \"priority\": \"alta\", \"sourceChannel\": \"email\", \"urgencyLabel\": \"prioritario\", \"status\": \"aperto\", \"createdAt\": \"2026-07-17T13:19:07.457Z\" }, { \"id\": \"TCK-10481\", \"title\": \"Errore 500 durante il caricamento\", \"customer\": \"Beta Consulting\", \"description\": \"Errore intermittente nella pagina fatture.\", \"referenceUrl\": \"\", \"priority\": \"normale\", \"sourceChannel\": \"chat\", \"urgencyLabel\": \"da gestire\", \"status\": \"in lavorazione\", \"createdAt\": \"2026-07-17T13:19:07.457Z\" } ] }"
       - article [ref=e172]:
         - generic [ref=e173]: caso valido
         - strong [ref=e174]: alta + telefono → intervento rapido
