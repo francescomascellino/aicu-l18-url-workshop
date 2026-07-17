@@ -121,10 +121,15 @@ function showTicketDetails(ticket) {
   ticketDetailsBody.textContent = ticket.description || "Nessuna descrizione.";
 
   if (ticket.referenceUrl) {
-    // Intentionally unsafe for the L18 URL workshop.
-    ticketReferenceLink.href = ticket.referenceUrl;
-    ticketReferenceLink.hidden = false;
-    ticketReferenceFallback.hidden = true;
+    if (ticket.referenceUrl.startsWith('https://')) {
+      ticketReferenceLink.href = ticket.referenceUrl;
+      ticketReferenceLink.hidden = false;
+      ticketReferenceFallback.hidden = true;
+    } else {
+      ticketReferenceLink.removeAttribute("href");
+      ticketReferenceLink.hidden = true;
+      ticketReferenceFallback.hidden = false;
+    }
   } else {
     ticketReferenceLink.removeAttribute("href");
     ticketReferenceLink.hidden = true;
