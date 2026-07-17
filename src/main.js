@@ -115,21 +115,23 @@ function createActionCell(ticket) {
   return cell;
 }
 
+function isSafeHttpsUrl(value) {
+  try {
+    return new URL(value).protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
 function showTicketDetails(ticket) {
   ticketDetailsTitle.textContent = ticket.title;
   ticketDetailsCustomer.textContent = ticket.customer;
   ticketDetailsBody.textContent = ticket.description || "Nessuna descrizione.";
 
-  if (ticket.referenceUrl) {
-    if (ticket.referenceUrl.startsWith('https://')) {
-      ticketReferenceLink.href = ticket.referenceUrl;
-      ticketReferenceLink.hidden = false;
-      ticketReferenceFallback.hidden = true;
-    } else {
-      ticketReferenceLink.removeAttribute("href");
-      ticketReferenceLink.hidden = true;
-      ticketReferenceFallback.hidden = false;
-    }
+  if (ticket.referenceUrl && isSafeHttpsUrl(ticket.referenceUrl)) {
+    ticketReferenceLink.href = ticket.referenceUrl;
+    ticketReferenceLink.hidden = false;
+    ticketReferenceFallback.hidden = true;
   } else {
     ticketReferenceLink.removeAttribute("href");
     ticketReferenceLink.hidden = true;
